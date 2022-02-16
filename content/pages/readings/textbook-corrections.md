@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Readings and Assignments
+parent_type: CourseSection
 parent_uid: 5ff15742-57c1-98fd-1898-19d238ec0b48
 title: Textbook Corrections
 uid: 3a56d77f-c590-c5bb-eb01-ce7101c37a2d

@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains information regarding textbook corrections to
   the third through seventh printings.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-100a-introduction-to-analysis-fall-2012/d83ac3fe15ebb46d41a9d8086a69c128_MIT18_100AF12_Co3rd7thprt.pdf
+file: /media/courses/18-100a-introduction-to-analysis-fall-2012/d83ac3fe15ebb46d41a9d8086a69c128_MIT18_100AF12_Co3rd7thprt.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Textbook Corrections
+parent_type: CourseSection
 resourcetype: Document
 title: 'Introduction to Analysis: Textbook Corrections to the Third through Seventh
   Printings'
