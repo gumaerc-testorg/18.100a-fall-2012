@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 6c47d19d-48ec-812a-299c-40b680625896
 resourcetype: Document
 title: 'Introduction to Analysis: Exam 1 Practice True/False Questions'
 uid: 6bb91fb1-d079-d06b-aee1-3acefff13a76

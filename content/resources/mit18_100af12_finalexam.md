@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 6c47d19d-48ec-812a-299c-40b680625896
 resourcetype: Document
 title: 'Introduction to Analysis: Practice Final Exam'
 uid: 853a9582-1fda-65c3-33a0-85b4b520cd3f

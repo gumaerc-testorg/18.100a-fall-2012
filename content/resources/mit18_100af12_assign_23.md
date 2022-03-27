@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: 5ff15742-57c1-98fd-1898-19d238ec0b48
 resourcetype: Document
 title: 'Introduction to Analysis: Assignment 23'
 uid: 59a0fb50-9e44-d90d-595f-f55df6943ca6

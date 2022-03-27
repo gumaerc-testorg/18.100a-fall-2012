@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 6c47d19d-48ec-812a-299c-40b680625896
 resourcetype: Document
 title: 'Introduction to Analysis: Practice Questions for Exam 2'
 uid: 53e8f0ee-3485-25b2-2ad5-fdb5dda869c5

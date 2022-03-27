@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: 5ff15742-57c1-98fd-1898-19d238ec0b48
 resourcetype: Document
 title: 'Introduction to Analysis: Assignment 11'
 uid: 6392d483-96c2-c3d5-999d-6aca86574f22

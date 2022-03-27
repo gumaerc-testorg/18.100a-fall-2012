@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Textbook Corrections
 parent_type: CourseSection
+parent_uid: 3a56d77f-c590-c5bb-eb01-ce7101c37a2d
 resourcetype: Document
 title: 'Introduction to Analysis: Textbook Corrections to the Third through Seventh
   Printings'

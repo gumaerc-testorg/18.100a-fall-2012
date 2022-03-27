@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Textbook Corrections
 parent_type: CourseSection
+parent_uid: 3a56d77f-c590-c5bb-eb01-ce7101c37a2d
 resourcetype: Document
 title: Corrections and Changes to the First Printing
 uid: 78e781c5-cfc9-690d-dac7-a97c93a0949f
