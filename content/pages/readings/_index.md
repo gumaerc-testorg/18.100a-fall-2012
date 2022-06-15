@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the assignments for the course, which include readings
+  and associated problems, and the preface, table of contents, sample sections, and
+  corrections to the course textbook.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Assignments
@@ -13,13 +16,13 @@ All readings and problem assignments are from the textbook:
 
 Mattuck, Arthur. _Introduction to Analysis_. Pearson, 1998. ISBN: 9780130811325.
 
-[Preface (PDF)]({{< baseurl >}}/resources/mit18_100af12_preface)
+{{% resource_link 8de03e62-ce5a-31e4-1eca-88c13d82cc74 "Preface (PDF)" %}}
 
-[Table of Contents (PDF)]({{< baseurl >}}/resources/mit18_100af12_tab_of_cont)
+{{% resource_link bbb371fd-ba6c-a620-036e-1e0d7d5c850d "Table of Contents (PDF)" %}}
 
-[Sample Sections (PDF)]({{< baseurl >}}/resources/mit18_100af12_samplesecton)
+{{% resource_link 04ac1364-44ba-e646-000e-c65a8245c801 "Sample Sections (PDF)" %}}
 
-[Textbook Corrections]({{< baseurl >}}/pages/readings/textbook-corrections)
+{{% resource_link 3a56d77f-c590-c5bb-eb01-ce7101c37a2d "Textbook Corrections" %}}
 
 Key to the Readings
 -------------------
@@ -83,7 +86,7 @@ Monotone sequences; completeness; inequalities
 Estimations; limit of a sequence
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 1 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_1)
+{{% resource_link 990c6484-e418-bf09-b8d7-412550a00769 "Assignment 1 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +98,7 @@ Estimations; limit of a sequence
 Examples of limits
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 2 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_2)
+{{% resource_link fba43e4a-8c64-ff3e-8819-26616cac91e2 "Assignment 2 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +122,7 @@ Error term; limit theorems
 Subsequences, cluster points
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 3 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_3)
+{{% resource_link 28994866-995e-6885-c201-0e9a18df64ec "Assignment 3 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +134,7 @@ Subsequences, cluster points
 Nested intervals, Bolzano-Weierstrass theorem, Cauchy sequences
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 4 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_4)
+{{% resource_link 6ad1af4c-9c09-d15d-5bc9-578dff9dc53b "Assignment 4 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +158,7 @@ Completeness property for sets
 Infinite series
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 5 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_5)
+{{% resource_link c2e661f9-954f-1170-d9ab-814c1dfb80ee "Assignment 5 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +182,7 @@ Infinite series (cont.)
 Power series
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 6 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_6)
+{{% resource_link 6e703315-83fd-470e-1fdb-35fc5d254bfe "Assignment 6 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -191,7 +194,7 @@ Power series
 Functions; local and global properties
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 7 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_7)
+{{% resource_link 378528fb-f7d0-a4d7-5b3b-17cc31a364bb "Assignment 7 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,7 +218,7 @@ Exam 1 (open book)
 Continuity
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 8 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_8)
+{{% resource_link 506cb1af-6cbd-21ec-6d46-740445358a36 "Assignment 8 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -227,7 +230,7 @@ Continuity
 Continuity (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 9 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_9)
+{{% resource_link 71e237f3-afe0-935b-acaf-4b0c1dcebc6f "Assignment 9 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,7 +242,7 @@ Continuity (cont.)
 Intermediate-value theorem
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 10 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_10)
+{{% resource_link f8b47462-4375-7230-c82d-f392cb361dc0 "Assignment 10 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,7 +254,7 @@ Intermediate-value theorem
 Continuity theorems
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 11 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_11)
+{{% resource_link 6392d483-96c2-c3d5-999d-6aca86574f22 "Assignment 11 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -275,7 +278,7 @@ Uniform continuity
 Differentiation: local properties
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 12 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_12)
+{{% resource_link b016f7a9-3b62-5a4b-eba0-71bfba4f177a "Assignment 12 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,7 +290,7 @@ Differentiation: local properties
 Differentiation: global properties
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 13 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_13)
+{{% resource_link 1ebf91f4-6e34-2d4d-e51e-9db7cd4b119d "Assignment 13 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -311,7 +314,7 @@ Convexity; Taylor's theorem (skip proofs)
 Integrability
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 14 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_14)
+{{% resource_link 41aaa86b-0ce7-9a6b-4a6e-c6bf9b4d2030 "Assignment 14 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -323,7 +326,7 @@ Integrability
 Riemann integral
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 15 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_15)
+{{% resource_link dca1a6bc-dd70-ff9b-9421-7539e5410b34 "Assignment 15 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -347,7 +350,7 @@ Fundamental theorems of calculus
 Improper integrals, convergence, Gamma function
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 16 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_16)
+{{% resource_link 8867aa33-3ace-c883-ed24-4e808cedff43 "Assignment 16 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -359,7 +362,7 @@ Improper integrals, convergence, Gamma function
 Stirling's formula; conditional convergence
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 17 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_17)
+{{% resource_link 0ab4c6b7-ede2-924e-c5dd-aedf6584ec5c "Assignment 17 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -395,7 +398,7 @@ Uniform convergence of series
 Continuity of sum; integration term-by-term
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 18 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_18)
+{{% resource_link 58ecff60-0caa-b6b1-d7e5-ae082b8bc396 "Assignment 18 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -407,7 +410,7 @@ Continuity of sum; integration term-by-term
 Differentiation term-by-term; analyticity
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 19 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_19)
+{{% resource_link f927ef52-9576-0f3b-3a88-f4e401de1002 "Assignment 19 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -419,7 +422,7 @@ Differentiation term-by-term; analyticity
 Continuous functions on the plane
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 20 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_20)
+{{% resource_link e9f9df9c-828e-66b6-ca68-0d13cb6acff0 "Assignment 20 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -431,7 +434,7 @@ Continuous functions on the plane
 Quantifiers and Negation
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 21 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_21)
+{{% resource_link 53bf0b88-881f-6eb6-cd1e-766488b69913 "Assignment 21 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -443,7 +446,7 @@ Quantifiers and Negation
 Plane point-set topology
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 22 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_22)
+{{% resource_link 394ffc87-65cc-3045-0463-8311f48a056b "Assignment 22 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -467,7 +470,7 @@ Compact sets and open sets
 Differentiating integrals with respect to a parameter
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 23 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_23)
+{{% resource_link 59a0fb50-9e44-d90d-595f-f55df6943ca6 "Assignment 23 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -479,7 +482,7 @@ Differentiating integrals with respect to a parameter
 Leibniz and Fubini theorems
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 24 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_24)
+{{% resource_link c3394230-54a7-7c70-fc80-c155ef578a03 "Assignment 24 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -503,7 +506,7 @@ Improper integrals with a parameter
 Differentiating and integrating improper integrals
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 25 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_25)
+{{% resource_link aded5088-ff69-7ba0-08a1-aedc2b814d01 "Assignment 25 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -527,7 +530,7 @@ Countability; sets of measure zero
 Introduction to Lebesgue integral; review
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 26 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_26)
+{{% resource_link 3d1f529b-d0f8-a567-dfe3-0e0c1892dba5 "Assignment 26 readings and problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides practice questions for the course exams.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -25,9 +26,9 @@ FILES
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Practice questions for exam 1 (PDF)]({{< baseurl >}}/resources/mit18_100af12_exam1)
+{{% resource_link 0a62e5cf-fcf6-e4c1-70ce-fcf0d798b652 "Practice questions for exam 1 (PDF)" %}}
 
-[Practice true-false questions for exam 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit18_100af12_truefalse)
+{{% resource_link "6bb91fb1-d079-d06b-aee1-3acefff13a76" "Practice true-false questions for exam 1 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -38,7 +39,7 @@ FILES
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[Practice questions for exam 2 (PDF)]({{< baseurl >}}/resources/mit18_100af12_exam2)
+{{% resource_link 53e8f0ee-3485-25b2-2ad5-fdb5dda869c5 "Practice questions for exam 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +48,7 @@ FILES
 40
 {{< tdclose >}}
 {{< tdopen >}}
-[Practice final exam (PDF)]({{< baseurl >}}/resources/mit18_100af12_finalexam)
+{{% resource_link 853a9582-1fda-65c3-33a0-85b4b520cd3f "Practice final exam (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
