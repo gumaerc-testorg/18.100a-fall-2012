@@ -5,6 +5,7 @@ description: This resource contains information regarding estimations; limit of 
 file: /courses/18-100a-introduction-to-analysis-fall-2012/990c6484e418bf09b8d7412550a00769_MIT18_100AF12_Assign_1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Introduction to Analysis: Assignment 1'
 uid: 990c6484-e418-bf09-b8d7-412550a00769
 ---
 This resource contains information regarding estimations; limit of a sequence.
-

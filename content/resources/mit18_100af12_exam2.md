@@ -6,6 +6,7 @@ file: /courses/18-100a-introduction-to-analysis-fall-2012/53e8f0ee348525b22ad5fd
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Introduction to Analysis: Practice Questions for Exam 2'
 uid: 53e8f0ee-3485-25b2-2ad5-fdb5dda869c5
 ---
 This resource contains information regarding practice questions for exam 2.
-
