@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on Riemann sums, the first fundamental theorem, the second
   fundamental theorem, the linearization error theorem, and the Riemann integral.
 file: /courses/18-100a-introduction-to-analysis-fall-2012/8867aa333acec883ed244e808cedff43_MIT18_100AF12_Assign_16.pdf
+file_size: 60682
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
