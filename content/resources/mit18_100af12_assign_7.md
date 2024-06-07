@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding functions; local and global
   properties.
 file: /courses/18-100a-introduction-to-analysis-fall-2012/378528fbf7d0a4d75b3b17cc31a364bb_MIT18_100AF12_Assign_7.pdf
+file_size: 56433
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

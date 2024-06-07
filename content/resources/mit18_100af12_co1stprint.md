@@ -3,6 +3,7 @@ content_type: resource
 description: Mathematical corrections and changes to the first printing of the course
   textbook.
 file: /courses/18-100a-introduction-to-analysis-fall-2012/78e781c5cfc9690ddac7a97c93a0949f_MIT18_100AF12_Co1stprint.pdf
+file_size: 546575
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

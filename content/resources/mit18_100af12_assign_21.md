@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding integrability.
 file: /courses/18-100a-introduction-to-analysis-fall-2012/53bf0b88881f6eb6cd1e766488b69913_MIT18_100AF12_Assign_21.pdf
+file_size: 47699
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

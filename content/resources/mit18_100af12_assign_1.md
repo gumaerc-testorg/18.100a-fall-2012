@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding estimations; limit of a
   sequence.
 file: /courses/18-100a-introduction-to-analysis-fall-2012/990c6484e418bf09b8d7412550a00769_MIT18_100AF12_Assign_1.pdf
+file_size: 527123
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
