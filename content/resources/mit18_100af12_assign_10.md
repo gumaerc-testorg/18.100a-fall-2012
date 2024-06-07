@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding intermediate-value theorem.
 file: /courses/18-100a-introduction-to-analysis-fall-2012/f8b4746243757230c82df392cb361dc0_MIT18_100AF12_Assign_10.pdf
+file_size: 60240
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

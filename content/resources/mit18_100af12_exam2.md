@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding practice questions for exam
   2.
 file: /courses/18-100a-introduction-to-analysis-fall-2012/53e8f0ee348525b22ad5fdb5dda869c5_MIT18_100AF12_Exam2.pdf
+file_size: 97034
 file_type: application/pdf
 learning_resource_types:
 - Exams

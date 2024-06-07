@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding differentiating integrals
   with respect to a parameter.
 file: /courses/18-100a-introduction-to-analysis-fall-2012/59a0fb509e44d90d595ff55df6943ca6_MIT18_100AF12_Assign_23.pdf
+file_size: 66374
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

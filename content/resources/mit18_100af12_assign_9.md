@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding continuity.
 file: /courses/18-100a-introduction-to-analysis-fall-2012/71e237f3afe0935bacaf4b0c1dcebc6f_MIT18_100AF12_Assign_9.pdf
+file_size: 61933
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
