@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding nested intervals, Bolzano-Weierstrass  theorem,
   Cauchy sequences.
-file: /courses/18-100a-introduction-to-analysis-fall-2012/6ad1af4c9c09d15d5bc9578dff9dc53b_MIT18_100AF12_Assign_4.pdf
+file: /ol-ocw-studio-app/courses/18-100a-introduction-to-analysis-fall-2012/6ad1af4c9c09d15d5bc9578dff9dc53b_MIT18_100AF12_Assign_4.pdf
 file_size: 57018
 file_type: application/pdf
 learning_resource_types: []
