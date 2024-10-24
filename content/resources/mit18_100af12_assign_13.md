@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding differentiation: global
   properties.'
-file: /courses/18-100a-introduction-to-analysis-fall-2012/1ebf91f46e342d4de51e9db7cd4b119d_MIT18_100AF12_Assign_13.pdf
+file: /ol-ocw-studio-app/courses/18-100a-introduction-to-analysis-fall-2012/1ebf91f46e342d4de51e9db7cd4b119d_MIT18_100AF12_Assign_13.pdf
 file_size: 58524
 file_type: application/pdf
 learning_resource_types: []
