@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding subsequences, cluster points.
-file: /courses/18-100a-introduction-to-analysis-fall-2012/28994866995e6885c2010e9a18df64ec_MIT18_100AF12_Assign_3.pdf
+file: /ol-ocw-studio-app/courses/18-100a-introduction-to-analysis-fall-2012/28994866995e6885c2010e9a18df64ec_MIT18_100AF12_Assign_3.pdf
 file_size: 59572
 file_type: application/pdf
 learning_resource_types: []

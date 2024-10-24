@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding table of contents.
-file: /courses/18-100a-introduction-to-analysis-fall-2012/bbb371fdba6ca620036e1e0d7d5c850d_MIT18_100AF12_Tab_of_Cont.pdf
+file: /ol-ocw-studio-app/courses/18-100a-introduction-to-analysis-fall-2012/bbb371fdba6ca620036e1e0d7d5c850d_MIT18_100AF12_Tab_of_Cont.pdf
 file_size: 532142
 file_type: application/pdf
 learning_resource_types: []
