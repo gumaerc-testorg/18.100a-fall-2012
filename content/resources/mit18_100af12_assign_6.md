@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding power series.
-file: /ol-ocw-studio-app/courses/18-100a-introduction-to-analysis-fall-2012/6e70331583fd470e1fdb35fc5d254bfe_MIT18_100AF12_Assign_6.pdf
+file: /courses/18-100a-introduction-to-analysis-fall-2012/6e70331583fd470e1fdb35fc5d254bfe_MIT18_100AF12_Assign_6.pdf
 file_size: 58774
 file_type: application/pdf
 learning_resource_types: []

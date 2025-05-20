@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Leibniz and Fubini theorems.
-file: /ol-ocw-studio-app/courses/18-100a-introduction-to-analysis-fall-2012/c339423054a77c70fc80c155ef578a03_MIT18_100AF12_Assign_24.pdf
+file: /courses/18-100a-introduction-to-analysis-fall-2012/c339423054a77c70fc80c155ef578a03_MIT18_100AF12_Assign_24.pdf
 file_size: 70308
 file_type: application/pdf
 learning_resource_types: []

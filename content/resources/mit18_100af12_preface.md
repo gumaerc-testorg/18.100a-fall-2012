@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding preface.
-file: /ol-ocw-studio-app/courses/18-100a-introduction-to-analysis-fall-2012/8de03e62ce5a31e41eca88c13d82cc74_MIT18_100AF12_Preface.pdf
+file: /courses/18-100a-introduction-to-analysis-fall-2012/8de03e62ce5a31e41eca88c13d82cc74_MIT18_100AF12_Preface.pdf
 file_size: 530813
 file_type: application/pdf
 learning_resource_types: []
