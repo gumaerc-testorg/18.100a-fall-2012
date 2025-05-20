@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding examples of limits.
-file: /ol-ocw-studio-app/courses/18-100a-introduction-to-analysis-fall-2012/fba43e4a8c64ff3e881926616cac91e2_MIT18_100AF12_Assign_2.pdf
+file: /courses/18-100a-introduction-to-analysis-fall-2012/fba43e4a8c64ff3e881926616cac91e2_MIT18_100AF12_Assign_2.pdf
 file_size: 61735
 file_type: application/pdf
 learning_resource_types: []
