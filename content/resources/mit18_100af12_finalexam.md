@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding practice questions for final
   exam.
-file: /ol-ocw-studio-app/courses/18-100a-introduction-to-analysis-fall-2012/853a95821fda65c333a085b4b520cd3f_MIT18_100AF12_Finalexam.pdf
+file: /courses/18-100a-introduction-to-analysis-fall-2012/853a95821fda65c333a085b4b520cd3f_MIT18_100AF12_Finalexam.pdf
 file_size: 537706
 file_type: application/pdf
 learning_resource_types:
