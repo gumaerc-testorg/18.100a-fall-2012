@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding practice true-false questions
   for exam 1.
-file: /courses/18-100a-introduction-to-analysis-fall-2012/6bb91fb1d079d06baee13acefff13a76_MIT18_100AF12_Truefalse.pdf
+file: /ol-ocw-studio-app/courses/18-100a-introduction-to-analysis-fall-2012/6bb91fb1d079d06baee13acefff13a76_MIT18_100AF12_Truefalse.pdf
 file_size: 453451
 file_type: application/pdf
 learning_resource_types:
