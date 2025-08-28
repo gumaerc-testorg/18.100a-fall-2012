@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding sample sections.
-file: /courses/18-100a-introduction-to-analysis-fall-2012/04ac136444bae646000ec65a8245c801_MIT18_100AF12_Samplesecton.pdf
+file: /ol-ocw-studio-app/courses/18-100a-introduction-to-analysis-fall-2012/04ac136444bae646000ec65a8245c801_MIT18_100AF12_Samplesecton.pdf
 file_size: 620279
 file_type: application/pdf
 learning_resource_types: []
