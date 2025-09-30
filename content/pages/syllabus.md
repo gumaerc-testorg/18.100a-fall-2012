@@ -28,7 +28,7 @@ Toward the end, there is a brief introduction to point-set topology, which is us
 
 Mattuck, Arthur. _Introduction to Analysis_. Pearson, 1998. ISBN: 9780130811325.
 
-The textbook gives the clearest idea of the course, which follows the textbook closely. The [_Introduction to Analysis_ textbook website](http://math.mit.edu/~apm/book.html) gives the preface, a detailed table of contents, fifteen pages of sample sections from the first three chapters illustrating the level and style of writing, and a brief account of why the book was written.
+The textbook gives the clearest idea of the course, which follows the textbook closely. The {{% resource_link "635ce539-dc1c-46fa-a5e3-09424dd6548a" "_Introduction to Analysis_ textbook website" %}} gives the preface, a detailed table of contents, fifteen pages of sample sections from the first three chapters illustrating the level and style of writing, and a brief account of why the book was written.
 
 ## Assignments
 
